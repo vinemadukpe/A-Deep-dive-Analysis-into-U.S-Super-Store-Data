@@ -73,8 +73,10 @@ While profit peaked on 11/20/2015. All these indicators both in 2014 and 2015 sa
 
 -  What are the characteristic of top performing segment and how can we target the demography?
   Fig.9a and Fig.9b answers the first question
-![image](https://github.com/vinemadukpe/A-Deep-dive-Analysis-into-U.S-Super-Store-Data/assets/147417142/4ddfeb08-d441-4987-92a3-f4a4d5e802df)![image](https://github.com/vinemadukpe/A-Deep-dive-Analysis-into-U.S-Super-Store-Data/assets/147417142/e9996a69-3c17-4509-85f3-818548b5111f)
-*Fig.9a*                                                                                                                                            *Fig.9b*
+![image](https://github.com/vinemadukpe/A-Deep-dive-Analysis-into-U.S-Super-Store-Data/blob/main/Proj22.png)
+*Fig.9a*
+![](https://github.com/vinemadukpe/A-Deep-dive-Analysis-into-U.S-Super-Store-Data/blob/main/Proj222.png)
+*Fig.9b*
 WE can observe that *Consumer Segment* drives sales. I equally Observed That The Consumer ‘Products’ Which Drives The Total Sales (50.56%) Is Selling More In The Western Region. This Could Be Due To The Fact That There Are More Private Citizens Who Are Neither Into Corporate Jobs Nor Work From Home Residing In That Region. as in fig.10a and fig.10b.
 
  ![image](https://github.com/vinemadukpe/A-Deep-dive-Analysis-into-U.S-Super-Store-Data/assets/147417142/b9058dc0-a94f-4623-bf15-e90a50f9cee3)
