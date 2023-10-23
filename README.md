@@ -56,12 +56,12 @@ Fig.6 is the result obtained from the 2015 sales data extracted from the 2014-20
 ---
 
 From fig.7 we can observe that sales peaked on 9/17/2015
-![image](https://github.com/vinemadukpe/A-Deep-dive-Analysis-into-U.S-Super-Store-Data/assets/147417142/30aaa801-6280-41a1-a539-c6fa82398a70)
+![image](https://github.com/vinemadukpe/A-Deep-dive-Analysis-into-U.S-Super-Store-Data/blob/main/proj_15_sales_trend.png)
 *Fig.7*
 ---
 
 While profit peaked on 11/20/2015. All these indicators both in 2014 and 2015 sales and profit trend are pointing out the fact that the store does well during festive seasons'
-![image](https://github.com/vinemadukpe/A-Deep-dive-Analysis-into-U.S-Super-Store-Data/assets/147417142/b15fcb9c-ab4d-4db3-a15a-b1ef3fcbc845)
+![image](https://github.com/vinemadukpe/A-Deep-dive-Analysis-into-U.S-Super-Store-Data/blob/main/proj_15_profit.png)
 *fIG.8*
 ---
 
