@@ -43,7 +43,7 @@ In 2014, sales peaked on 3/18/2014 and also flattened immidiately as shown in fi
 
 In fig.5 below, we can observe that the profit trend does not follow the sales trend because it peaked on 12/20/2014. This spike in profit trend could equally be as a result of festivity in the month of December when sellers tends to hike prices to make homongus profit.
 
-![image](https://github.com/vinemadukpe/A-Deep-dive-Analysis-into-U.S-Super-Store-Data/assets/147417142/bab838d7-34ad-4f7d-978c-8c160c03a35c)
+![image](https://github.com/vinemadukpe/A-Deep-dive-Analysis-into-U.S-Super-Store-Data/blob/main/proj_14_profit_date.png)
 *Fig.5*
 ---
 
@@ -51,7 +51,7 @@ In fig.5 below, we can observe that the profit trend does not follow the sales t
 
 Fig.6 is the result obtained from the 2015 sales data extracted from the 2014-2017 US super store sales data, from the calculation we can observer that there was not a significant increase in sales between 2014 and 2015.
 
-![image](https://github.com/vinemadukpe/A-Deep-dive-Analysis-into-U.S-Super-Store-Data/assets/147417142/7e2f4243-9ef2-4fed-82a9-138ee7bd3172)
+![image](https://github.com/vinemadukpe/A-Deep-dive-Analysis-into-U.S-Super-Store-Data/blob/main/PROJ_15_KIPS.png)
 *Fig.6*
 ---
 
