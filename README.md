@@ -1,4 +1,4 @@
-# A Deep Dive Analysis Into U.S-Super Store SalesData
+# A Deep Dive Analysis Into U.S Super Store Sales Data
 
 
 
