@@ -22,7 +22,7 @@ In this analysis, I paid attention on the striking KPIs that will help the manag
 
 In Fig.2, i tabulated the values of some KPIs gotten from the analysis of 2014-2017 sales data from US super store using the formula above.
 
-![image](https://github.com/vinemadukpe/A-Deep-dive-Analysis-into-U.S-Super-Store-Data/assets/147417142/3fd0facd-9277-4be8-a9ba-f68b38ab705e)
+![image](https://github.com/vinemadukpe/A-Deep-dive-Analysis-into-U.S-Super-Store-Data/blob/main/Proj%20KIPs.png)
 *Fig.2*
 ---
 
@@ -30,14 +30,14 @@ In Fig.2, i tabulated the values of some KPIs gotten from the analysis of 2014-2
 
 I extracted 2014 data from 2014-2017 dataset obtained using filter function. Afterwhich, i was able to abtain the below insights in fig.3, fig.4 and fig.5.
 
-![image](https://github.com/vinemadukpe/A-Deep-dive-Analysis-into-U.S-Super-Store-Data/assets/147417142/92b0ae89-75a2-4b61-b058-e4bf82c3b9a3)
+![](https://github.com/vinemadukpe/A-Deep-dive-Analysis-into-U.S-Super-Store-Data/blob/main/proj_14_KIPs.png)
 
 *Fig.3*
 ---
 
 In 2014, sales peaked on 3/18/2014 and also flattened immidiately as shown in fig.4, this spike could be as a result of Easter celebration.
 
-![image](https://github.com/vinemadukpe/A-Deep-dive-Analysis-into-U.S-Super-Store-Data/assets/147417142/022fb62e-0c9f-4c53-9b63-4f1639bedf6d)
+![image](https://github.com/vinemadukpe/A-Deep-dive-Analysis-into-U.S-Super-Store-Data/blob/main/proj_14_sales_date.png)
 *Fig.4*
 ---
 
