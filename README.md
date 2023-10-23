@@ -22,7 +22,7 @@ In this analysis, I paid attention on the striking KPIs that will help the manag
 - Average Sales = Total Revenue / Number of Transactions
 - Average Profit = Total Profit / Number of Transactions 
 
-In Fig.2, i tabulated the values of some KPIs gotten from the analysis of 2014-2017 sales data from US super store using the formula above.
+In *Fig.2*, i tabulated the values of some KPIs gotten from the analysis of 2014-2017 sales data from US super store using the formula above.
 
    ![image](https://github.com/vinemadukpe/A-Deep-dive-Analysis-into-U.S-Super-Store-Data/blob/main/Proj%20KIPs.png)
  
@@ -32,7 +32,7 @@ In Fig.2, i tabulated the values of some KPIs gotten from the analysis of 2014-2
 
 ## Insight From 2014 Sales Data
 
-I extracted 2014 data from 2014-2017 dataset obtained using filter function. Afterwhich, i was able to abtain the below insights in fig.3, fig.4 and fig.5.
+I extracted 2014 data from 2014-2017 dataset obtained using filter function. Afterwhich, i was able to abtain the below insights in *fig.3, fig.4 and fig.5*.
 
 ![](https://github.com/vinemadukpe/A-Deep-dive-Analysis-into-U.S-Super-Store-Data/blob/main/proj_14_KIPs.png)
 
@@ -40,7 +40,7 @@ I extracted 2014 data from 2014-2017 dataset obtained using filter function. Aft
 
 ---
 
-In 2014, sales peaked on 3/18/2014 and also flattened immidiately as shown in fig.4, this spike could be as a result of Easter celebration.
+In 2014, sales peaked on 3/18/2014 and also flattened immidiately as shown in *fig.4*, this spike could be as a result of Easter celebration.
 
 ![image](https://github.com/vinemadukpe/A-Deep-dive-Analysis-into-U.S-Super-Store-Data/blob/main/proj_14_sales_date.png)
 
@@ -48,7 +48,7 @@ In 2014, sales peaked on 3/18/2014 and also flattened immidiately as shown in fi
 
 ---
 
-In fig.5 below, we can observe that the profit trend does not follow the sales trend because it peaked on 12/20/2014. This spike in profit trend could equally be as a result of festivity in the month of December when sellers tends to hike prices to make homongus profit.
+In *fig.5* below, we can observe that the profit trend does not follow the sales trend because it peaked on 12/20/2014. This spike in profit trend could equally be as a result of festivity in the month of December when sellers tends to hike prices to make homongus profit.
 
 ![image](https://github.com/vinemadukpe/A-Deep-dive-Analysis-into-U.S-Super-Store-Data/blob/main/proj_14_profit_date.png)
 
@@ -58,7 +58,7 @@ In fig.5 below, we can observe that the profit trend does not follow the sales t
 
 ## Insight From 2015 Sales Data
 
-Fig.6 is the result obtained from the 2015 sales data extracted from the 2014-2017 US super store sales data, from the calculation we can observer that there was not a significant increase in sales between 2014 and 2015.
+*Fig.6* is the result obtained from the 2015 sales data extracted from the 2014-2017 US super store sales data, from the calculation we can observer that there was not a significant increase in sales between 2014 and 2015.
 
 ![image](https://github.com/vinemadukpe/A-Deep-dive-Analysis-into-U.S-Super-Store-Data/blob/main/PROJ_15_KIPS.png)
 
@@ -66,7 +66,7 @@ Fig.6 is the result obtained from the 2015 sales data extracted from the 2014-20
 
 ---
 
-From fig.7 we can observe that sales peaked on 9/17/2015 which is still pointing in the direction of ember months
+From *fig.7* we can observe that sales peaked on 9/17/2015 which is still pointing in the direction of ember months
 
 ![image](https://github.com/vinemadukpe/A-Deep-dive-Analysis-into-U.S-Super-Store-Data/blob/main/proj_15_sales_trend.png)
 
@@ -91,7 +91,7 @@ While profit peaked on 11/20/2015. All these indicators both in 2014 and 2015 sa
 
 -  What are the characteristic of top performing segment and how can we target the demography?
 ---
-  We can observe from  Fig.9a and Fig.9b below that *Consumer Segment* drives to total sales. It can equally be seen That The Consumer ‘Products’ Which Drives The Total Sales (50.56%) Is Selling More In The Western Region. This Could Be Due To The Fact That There Are More Private Citizens Who Are Neither Into Corporate Jobs Nor Work From Home Residing In That Region. as in fig.9a and fig.9b.
+  We can observe from  *Fig.9a and Fig.9b* below that *Consumer Segment* drives to total sales. It can equally be seen That The Consumer ‘Products’ Which Drives The Total Sales (50.56%) Is Selling More In The Western Region. This Could Be Due To The Fact That There Are More Private Citizens Who Are Neither Into Corporate Jobs Nor Work From Home Residing In That Region.
 
 ---
   
