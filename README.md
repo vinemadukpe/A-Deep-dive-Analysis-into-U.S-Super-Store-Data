@@ -113,17 +113,9 @@ While profit peaked on 11/20/2015. All these indicators both in 2014 and 2015 sa
 From *fig.10a and fig.10b* below it can be seen that sales and profits significantly varies across the regions where both are high in the West and relatively good in the East but very low in the South. this means that effective marketing and other drastic actions need to be taken to improve sales in the South.
 
 
- ![image](https://github.com/vinemadukpe/A-Deep-dive-Analysis-into-U.S-Super-Store-Data/blob/main/Proj4.png)
-  
-  *Fig.10a*
+![Fig10](https://github.com/vinemadukpe/A-Deep-dive-Analysis-into-U.S-Super-Store-Data/assets/147417142/a890c4f7-9c8f-46e1-be98-b97547e6da42)
 
- ![image](https://github.com/vinemadukpe/A-Deep-dive-Analysis-into-U.S-Super-Store-Data/blob/main/proj44.png)
- 
- *Fig.10b*
-
- ![](https://github.com/vinemadukpe/A-Deep-dive-Analysis-into-U.S-Super-Store-Data/blob/main/proj444.png)
-
-*Fig.10c*
+  *Fig.10*
 
  ---
 
@@ -135,7 +127,7 @@ From *fig.10a and fig.10b* below it can be seen that sales and profits significa
 
 *Fig.11a*
 
-![](https://github.com/vinemadukpe/A-Deep-dive-Analysis-into-U.S-Super-Store-Data/blob/main/proj333.png?raw=true)
+![fig 11](https://github.com/vinemadukpe/A-Deep-dive-Analysis-into-U.S-Super-Store-Data/assets/147417142/ed4234da-218f-4ed0-bb6c-20529d6f9f0c)
 
 *Fig.11b*
 
@@ -144,7 +136,7 @@ From *fig.10a and fig.10b* below it can be seen that sales and profits significa
 - Which Products Drive Profit?
   From *fig.12* **Binders** and **Paper** are generating the highest profit.
 
- ![](https://github.com/vinemadukpe/A-Deep-dive-Analysis-into-U.S-Super-Store-Data/blob/main/proj3333.png?raw=true)
+ ![fg11a](https://github.com/vinemadukpe/A-Deep-dive-Analysis-into-U.S-Super-Store-Data/assets/147417142/aeb3b47b-d363-46b7-b5ed-9b0d9ab2cd39)
 
   *Fig.12*
 
